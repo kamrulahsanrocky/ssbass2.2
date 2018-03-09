@@ -71,8 +71,8 @@
 .header .option_side ul li {
     float: left;
     height: 70px;
-    padding-right: 30px;
-    padding-left: 30px;
+    padding-right: 25px;
+    padding-left: 25px;
 }
 
 .header .option_side ul li a {
